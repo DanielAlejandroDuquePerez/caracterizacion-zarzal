@@ -1,0 +1,13 @@
+caracterizacion_zarzal/
+├── .streamlit/
+│   └── config.toml
+├── data/
+├── app.py
+└── clean_data.py
+
+[theme]
+primaryColor = "#F4A500"                  # Amarillo Dorado
+backgroundColor = "#0F140D"               # Fondo oscuro con matiz Verde Selva
+secondaryBackgroundColor = "#1A2417"      # Fondo para barra lateral y tarjetas
+textColor = "#F5F5F5"                     # Texto principal
+font = "sans serif"
